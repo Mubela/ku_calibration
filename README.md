@@ -1,4 +1,4 @@
-# otfm_calibration_and_imaging
+# otfm_data_reduction
 
 ## Calibration 
 1. Data Examination and Editing
