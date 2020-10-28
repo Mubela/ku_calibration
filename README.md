@@ -1,5 +1,7 @@
 # otfm_data_reduction
 
+Note: This pipeline is still under development to make it more generic. It is currently tailored toward a specific dataset, but can be amended.
+
 ## Calibration 
 1. Data Examination and Editing
 2. Calibration  
