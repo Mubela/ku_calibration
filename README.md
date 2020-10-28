@@ -2,8 +2,8 @@
 
 ## Calibration 
 1. Data Examination and Editing
-2. Calibration
-   a. a priori corrections
+2. Calibration\\
+   a. a priori corrections\\
    b. Initial phase calibration
    c. Delay calibration
    d. Bandpass calibration
