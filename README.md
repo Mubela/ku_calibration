@@ -27,4 +27,4 @@ Note: This pipeline is still under development to make it more generic. It is cu
  
 
 ## Deconvolution and Imaging
-Run imaging script using parameters in pre-imaging
+Run imaging script using parameters in pre-imaging -- example script (mm_ku-sb1_combined.py)
