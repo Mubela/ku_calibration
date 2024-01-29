@@ -35,5 +35,5 @@ for i in fits_files:
     
 beam_table = Table([id_num, objects, majors, minors, ratios], names=['ID', 'Object', 'major axis', 'minor axis', 'Beam elongation'])
 
-beam_table.write('{}_beam_elongation.csv', format='csv'.foramt(output_prefix))
+beam_table.write('{}_beam_elongation.csv', format='csv'.format(output_prefix))
 beam_table.write('{}_beam_elongation.txt', format='ascii.rst'.format(output_prefix))
